@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael Kuria
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Front end development with reactJs
+- 🌱 I’m currently working on Reactjs & Springboot projects
 -
 - 
 
